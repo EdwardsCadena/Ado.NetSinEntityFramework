@@ -1,0 +1,16 @@
+C:\Users\Ed\source\repos\PruebaTecnica\PruebaTecnica\bin\Debug\PruebaTecnica.exe.config
+C:\Users\Ed\source\repos\PruebaTecnica\PruebaTecnica\bin\Debug\PruebaTecnica.exe
+C:\Users\Ed\source\repos\PruebaTecnica\PruebaTecnica\bin\Debug\PruebaTecnica.pdb
+C:\Users\Ed\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\PruebaTecnica.csprojAssemblyReference.cache
+C:\Users\Ed\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\PruebaTecnica.Form1.resources
+C:\Users\Ed\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\PruebaTecnica.Properties.Resources.resources
+C:\Users\Ed\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\PruebaTecnica.csproj.GenerateResource.cache
+C:\Users\Ed\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\PruebaTecnica.csproj.CoreCompileInputs.cache
+C:\Users\Ed\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\PruebaTecnica.exe
+C:\Users\Ed\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\PruebaTecnica.pdb
+C:\Users\Ed\source\repos\PruebaTecnica\PruebaTecnica\bin\Debug\EntityFramework.dll
+C:\Users\Ed\source\repos\PruebaTecnica\PruebaTecnica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ed\source\repos\PruebaTecnica\PruebaTecnica\bin\Debug\EntityFramework.xml
+C:\Users\Ed\source\repos\PruebaTecnica\PruebaTecnica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ed\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\PruebaTecnica.csproj.CopyComplete
+C:\Users\Ed\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\PruebaTecnica.Registro.resources
